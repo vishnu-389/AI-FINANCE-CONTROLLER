@@ -1,0 +1,47 @@
+description,category
+salary received,Salary
+monthly salary,Salary
+company salary,Salary
+salary credit,Salary
+wages received,Salary
+house rent,Rent
+monthly rent,Rent
+apartment rent,Rent
+room rent,Rent
+electricity bill,Utilities
+water bill,Utilities
+gas bill,Utilities
+internet bill,Utilities
+mobile recharge,Utilities
+pizza,Food
+restaurant,Food
+lunch,Food
+dinner,Food
+groceries,Food
+coffee,Food
+swiggy order,Food
+zomato order,Food
+uber ride,Transport
+ola cab,Transport
+bus ticket,Transport
+train ticket,Transport
+petrol,Transport
+fuel,Transport
+amazon purchase,Shopping
+clothes,Shopping
+shoes,Shopping
+shopping mall,Shopping
+online shopping,Shopping
+movie ticket,Entertainment
+netflix,Entertainment
+concert ticket,Entertainment
+gaming,Entertainment
+hotel booking,Travel
+flight ticket,Travel
+trip,Travel
+vacation,Travel
+medicine,Health
+doctor appointment,Health
+hospital bill,Health
+pharmacy,Health
+gym membership,Health
